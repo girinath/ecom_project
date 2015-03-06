@@ -21,7 +21,7 @@ public class SR6 {
 		wm.clickValueByLinkText("My Account");
 		wm.setValueById("email", email);
 		wm.setValueById("pass", "nathgg");
-		wm.clickById("send2sujintest");
+		wm.clickById("send2");
 
 		wm.clickValueByXpathAttr("div", "class", "\"block-content\"",
 				"/ul/li[8]/a");
