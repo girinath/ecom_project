@@ -23,7 +23,7 @@ public class WrapperMethods {
 		/*
 		 * System.setProperty("webdriver.chrome.driver",
 		 * "D:\\Are\\Sel\\Ecom_project\\lib\\chromedriver.exe"); driver = new
-		 * ChromeDriver();
+		 * heeeeeeeeeeeeeeeeeeeeeeeeeeee ChromeDriver();
 		 */
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 	}
